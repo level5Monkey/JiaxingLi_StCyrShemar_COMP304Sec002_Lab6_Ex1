@@ -13,14 +13,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JiaxingLi_StCyrShemar_COMP304Sec002_Lab6_Ex1">
-        <service
-            android:name=".SimpleService"
-            android:enabled="true"
-            android:exported="true"></service>
 
-        <activity
-            android:name=".ServicesActivity"
-            android:exported="true" />
         <activity android:name=".MessageActivity" />
         <activity
             android:name=".MainActivity"
